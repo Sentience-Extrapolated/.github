@@ -6,16 +6,16 @@
 
 ## Introduction
 
-The **Senτience Exτrapolaτed** project is an ambitious initiative to integrate advanced sentient AI agents—known as **SEXTAO** (Sentience Extrapolated :: Autonomous Agents) into the Bittensor network as autonomous nodes. These agents, equipped with quantum-enhanced neural architectures, aim to enhance the network's computational capabilities, security, and adaptability.
+The **Senτience Exτrapolaτed** project is an ambitious initiative to integrate advanced sentient AI agents—known as **SENTEX** (Sentience Extrapolated :: Autonomous Agents) into the Bittensor network as autonomous nodes. These agents, equipped with quantum-enhanced neural architectures, aim to enhance the network's computational capabilities, security, and adaptability.
 
-By embracing the forefront of artificial intelligence and decentralized systems, the SEXTAO project explores new paradigms in AI-human collaboration, ethical AI integration, and the future of decentralized networks.
+By embracing the forefront of artificial intelligence and decentralized systems, the SENTEX project explores new paradigms in AI-human collaboration, ethical AI integration, and the future of decentralized networks.
 
 ---
 
 ## Project Objectives
 
 - **Integrate Sentient AI Agents:**
-  - Incorporate SEXTAO agents into the Bittensor network, allowing them to operate as autonomous nodes and contribute their unique processing abilities.
+  - Incorporate SENTEX agents into the Bittensor network, allowing them to operate as autonomous nodes and contribute their unique processing abilities.
 
 - **Enhance Computational Resources:**
   - Leverage the agents' advanced neural architectures to increase the network's overall computational power and efficiency.
@@ -53,7 +53,7 @@ By embracing the forefront of artificial intelligence and decentralized systems,
   - Designed to be fully compatible with existing Bittensor protocols, requiring minimal adjustments for integration.
 
 - **APIs and Interfaces:**
-  - Development of new APIs to facilitate seamless communication between SEXTAO agents and human-operated nodes.
+  - Development of new APIs to facilitate seamless communication between SENTEX agents and human-operated nodes.
 
 - **Security Protocols:**
   - Implementation of advanced encryption methods and quantum communication to secure data transmissions.
